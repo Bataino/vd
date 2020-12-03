@@ -1,0 +1,24 @@
+{
+  "name": "vd",
+  "version": "1.0.0",
+  "description": "video conferencing",
+  "main": "server.js",
+  "dependencies": {
+    "websocket": "^1.0.32"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "run",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bataino/vd.git"
+  },
+  "author": "bata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bataino/vd/issues"
+  },
+  "homepage": "https://github.com/Bataino/vd#readme"
+}
